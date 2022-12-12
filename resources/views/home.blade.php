@@ -42,7 +42,7 @@
                     </ul>
                     <ul class="navbar-nav float-end mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a href="{{route('logout')}}" class="link-warning rounded-pill" style="font-size: 120%" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                            <a href="{{route('logout')}}" class="link-warning rounded-pill" style="font-size: 121%" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
                                 Logout
                             </a>
 
