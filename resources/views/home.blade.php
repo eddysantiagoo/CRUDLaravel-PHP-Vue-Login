@@ -16,7 +16,7 @@
 <body class="antialiased">
     <div id="app">
         <loader-component></loader-component>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
             <a class="navbar-brand" href="https://youtu.be/hunv2Xklr4Q" target="_blank">
                <img src="https://emojitool.com/img/apple/ios-13.3/father-christmas-type-1-2-3000.png" width="60" height="60" class="d-inline-block align-top" alt="papo noel?">
@@ -42,7 +42,7 @@
                     </ul>
                     <ul class="navbar-nav float-end mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a href="{{route('logout')}}" class="nav-link" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                            <a href="{{route('logout')}}" class="link-warning rounded-pill" style="font-size: 120%" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
                                 Logout
                             </a>
 

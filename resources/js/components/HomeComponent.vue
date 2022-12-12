@@ -7,7 +7,7 @@
         >
     </div>
 
-    <h2>Eddy Santiago Giraldo Hincapie</h2>
+    <h2>Eddy Santiago Giraldo Hincapié</h2>
     <h3>Docente: Daniel Esteban Camargo Orrego</h3>
     <br />
     <h5>
