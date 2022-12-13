@@ -24,8 +24,10 @@
 <div align="center">
 
   ![Laravel][Laravel]
+  ![Lara][Lara]
   ![Vue][Vue]
   ![PHP][PHP]
+  ![Boot][Boot]
   ![VueRouter][VueRouter]
   ![Axios][Axios]
 </div>
@@ -79,6 +81,15 @@
 # Capturas
 
 
+![Loogin 2](https://user-images.githubusercontent.com/85720891/207183666-f653668b-363f-4d17-8a6d-18b427d9530e.jpg)
+
+### Cifrado de contraseña
+![User login](https://user-images.githubusercontent.com/85720891/207183682-8d447fe0-3615-4bb2-abea-f4fb2234e83b.jpg)
+
+
+![Login Home](https://user-images.githubusercontent.com/85720891/207183711-48bbd1ba-956b-4167-9ef2-d261ee24c507.jpg)
+![Login final](https://user-images.githubusercontent.com/85720891/207183744-6b529818-5343-4bb0-aaef-42f809ef787a.jpg)
+
 
 
 
@@ -91,6 +102,8 @@
 [PHP]:https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [Laravel]:https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [VueRouter]: https://img.shields.io/badge/Vue%20Router-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[Lara]: https://img.shields.io/badge/LaraTrust-10b3af?style=for-the-badge&logo=github%20pay&logoColor=white
+[Boot]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Axios]: https://img.shields.io/badge/AXIOS-007AFF?style=for-the-badge&logo=github%20pay&logoColor=white
 [Nvidia]: https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white
 
